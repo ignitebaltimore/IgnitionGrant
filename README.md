@@ -67,6 +67,7 @@ Contact information for previous grantees as well as previous applicants is [ava
 * Submit list of complimentary tickets to Ignite Baltimore.
 * Thank the Review Committee.
 * List the applicants and new grantees in [Ignition Grantees and Applicants spreadsheet](https://docs.google.com/spreadsheet/ccc?key=0AnSED3Uiz1PodGxaLUFKWU1jSmlOQ0dwbWowQ1JxbGc&usp=drive_web#gid=0).
+* Send information about the new grantees to Technically Baltimore with request not to publish until after the event.
 
 ####At Ignite Baltimore, you should
 * Collect W-9s from new grantees and give to GB.TC.
