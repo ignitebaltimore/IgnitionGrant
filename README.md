@@ -32,42 +32,47 @@ The Ignition Grant has funded a number of projects.
 * The Walkbrook Project - Felicia Pride ([Video](http://www.youtube.com/watch?v=GWXCEH2rm4c))
 
 ####2009
-*Homelessness in Baltimore - Mark Schumann
-*Quick Explore - Robert Wray
+* Homelessness in Baltimore - Mark Schumann
+* Quick Explore - Robert Wray
 
 Contact information for previous grantees as well as previous applicants is [available online to Ignite Baltimore Ignition Grant coordinators](https://docs.google.com/spreadsheet/ccc?key=0AnSED3Uiz1PodGxaLUFKWU1jSmlOQ0dwbWowQ1JxbGc#gid=0).
 
-Budget: https://docs.google.com/spreadsheet/ccc?key=0As0oer0O-4T5dHIzbFBLY3JJeks0WkU5Y3ZpNUZjMGc&usp=drive_web#gid=0
+###To Do List
 
-Calendar:
-  Revise Ignition Grant application.
-  Watch for Ignite Baltimore announcement.
-  Set deadline and amount.
-  Post new Ignition Grant application on website.
-  Conduct outreach.
-  Review applications.
-  Notify new grantees.
+####When an Ignite Baltimore event is announced, you should
+* Find out the amount available for grants. ([Financials](https://docs.google.com/spreadsheet/ccc?key=0As0oer0O-4T5dHIzbFBLY3JJeks0WkU5Y3ZpNUZjMGc&usp=drive_web#gid=0))
+* Determine when the grants will be due. Recommendation: Six weeks prior to Ignite Baltimore.
+* Revise the Ignition Grant application prior to the next Ignite Baltimore. ([Version from Fall 2013 is available online.](https://docs.google.com/document/d/14u1dJ3HESYNcWDnYyPTIx_Htb15LWxsvKWSC2sscmgY/edit)) 
+* Update the Ignition Grant page on the Ignite Baltimore website.
+* Promote the grant. ([Outreach schedule for Fall 2013 is available online.](https://docs.google.com/document/d/185qiXQgEzoa6CPETWZB4DLCU0oeIWLlm2EQDbUNYEY4/edit) [Press release from Fall 2013 is available online.](https://docs.google.com/document/d/1F14zLeLi8L7SdUWQiKD6UwdNpYYPsCkH56CVRt8ubWU/edit))
+* Alert the previous round's grantees that the next Ignite Baltimore has been announced and that their slides will be due approximately two weeks before the event.
+* Set up the Review Committee. ([A list of previous Review Committee members is available online.](https://docs.google.com/spreadsheet/ccc?key=0AnSED3Uiz1PodGxaLUFKWU1jSmlOQ0dwbWowQ1JxbGc#gid=2))
+* Schedule the meeting where the Review Committee will discuss the applications. Recommendation: three weeks prior to Ignite Baltimore.
 
+####After the Ignite Baltimore speakers are announced, you should
+* Contact the previous grantees to let them know exactly when their slides are due and how long their presentation should be.
+* Find out if previous grantees will be bringing a guest.
 
-  Contact review committee. 
-  Ask who is interested in participating again.
-  Find additional people to fill open slots.
-  Schedule review committee meeting.
-  Hold review committee meeting.
-  Thank you to review committee.
-  Contact grantees
-  
+####When the slides for Ignite Baltimore are due, you should
+* Collect slides from previous grantees and pass on to Ignite Baltimore.
 
-  Notify new grantees. (2 weeks before Ignite Baltimore)
-  Collect W-9 from new grantees. (at Ignite Baltimore)
-  Give W-9s to GB.TC.
-  Confirm that checks are written to new grantees.
-  Date for next Ignite Baltimore is announced.
-  Let grantees know date for Ignite Baltimore and warn them when their slides will be due.
-  Speakers for Ignite Baltimore are announced.
-  Let grantees know when their slides are due. Confirm details for their presentation.
-  Collect slides from grantees and pass on to Ignite Baltimore.
-  Collect receipts from grantees and review for reasonableness.
+####After the grant deadline, you should
+* Revise the judging rubric. ([Version from Fall 2013 is available online.](https://drive.google.com/#folders/0B3SED3Uiz1PocDhqN2dRMmIwMWs))
+* Distribute the applications and judging rubic to the Review Committee.
+* Review the applications with the Review Committee and select the new grantees.
 
+####After the grantees are selected, you should
+* Notify the new grantees. Recommendation: two weeks prior to Ignite Baltimore.
+* Ascertain if new grantees will be attending Ignite Baltimore and if they will bring a guest.
+* Submit list of complimentary tickets to Ignite Baltimore.
+* Thank the Review Committee.
 
+####At Ignite Baltimore, you should
+* Collect W-9s from new grantees and give to GB.TC.
+
+####After Ignite Baltimore is over, you should
+* Give W-9s to GB.TC.
+* Confirm that checks are written to the new grantees.
+* Collect receipts from previous grantees.
+* Review receipts for reasonableness.
 
